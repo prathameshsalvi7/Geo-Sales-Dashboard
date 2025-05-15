@@ -82,7 +82,6 @@ Breaks down performance by business segments.
 |---------------|--------------------|----------------------|------------------|
 | ![Sales Summary](images/sales_summary.png) | ![Geo Sales](images/geographical_product_sales.png) | ![Product Performance](images/product_performance.png) | ![Segment Analysis](images/segment_analysis.png) |
 
-> _Place the screenshots inside an `/images` folder in the repository._
 ---
 
 ## 📂 How to Use
