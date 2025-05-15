@@ -80,10 +80,9 @@ Breaks down performance by business segments.
 
 | Sales Summary | Geographical Sales | Product Performance | Segment Analysis |
 |---------------|--------------------|----------------------|------------------|
-| ![Sales Summary]([image/sales_summary.png]) | ![Geo Sales]([images/geographical_sales.png](https://github.com/prathameshsalvi7/Geo-Sales-Dashboard/blob/main/Geographical%20Product%20Sales.png)) | ![Product Performance]([images/product_performance.png](https://github.com/prathameshsalvi7/Geo-Sales-Dashboard/blob/main/Product%20Performance.png)) | ![Segment Analysis]((https://github.com/prathameshsalvi7/Geo-Sales-Dashboard/blob/main/Segment%20Analysis.png)) |
+| ![Sales Summary](images/sales_summary.png) | ![Geo Sales](images/geographical_sales.png) | ![Product Performance](images/product_performance.png) | ![Segment Analysis](images/segment_analysis.png) |
 
 > _Place the screenshots inside an `/images` folder in the repository._
-
 ---
 
 ## 📂 How to Use
