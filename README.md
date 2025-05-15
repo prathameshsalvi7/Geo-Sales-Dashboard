@@ -1,91 +1,100 @@
-📊 Power BI Sales Analytics Dashboard
-This Power BI project provides a comprehensive visualization of global product sales performance, offering insights into sales distribution, profit margins, segment performance, and geographic trends. The dashboard suite is designed to help businesses drive data-informed decisions through interactive reports and visual storytelling.
+# 📊 Power BI Sales Analytics Dashboard
 
-📁 Dashboard Overview
-1. Sales Summary Dashboard
-Purpose: Provides a high-level snapshot of overall business performance.
+This project showcases a suite of Power BI dashboards built to visualize and analyze global product sales data. It enables stakeholders to uncover insights across regions, products, and customer segments for better business decision-making.
 
-Key KPIs:
+---
 
-Total Gross Sales: $128M
+## 📁 Dashboard Overview
 
-Total Units Sold: 1.1M
+### 1. **Sales Summary Dashboard**
+Provides a high-level overview of business performance.
+- **Key Metrics:**
+  - Total Gross Sales: `$128M`
+  - Total Units Sold: `1.1M`
+- **Visuals:**
+  - Sales by Year
+  - Top Products by Sales
+  - Country-wise Sales
+  - Discount Band Analysis
 
-Sales Over Time: Line chart showing yearly sales growth (2013 vs 2014).
+---
 
-Visuals:
+### 2. **Geographical Product Sales Dashboard**
+Highlights regional sales distribution.
+- **Visuals:**
+  - Interactive World Map (Sales by Country)
+  - Country-wise Sales Volume Bar Chart
 
-Sales by Year: Visualizes the increasing sales trend.
+---
 
-Sales by Product: Identifies top-selling products (e.g., Paseo and VTT).
+### 3. **Product Performance Dashboard**
+Focuses on product-level insights.
+- **Key Metrics:**
+  - Last 12 Months Sales: `$92.3M`
+- **Visuals:**
+  - Top-Selling Products
+  - Profit by Country
+  - Monthly Sales & Profit Trends
 
-Sales by Country: Breakdown of total sales for each country.
+---
 
-Discount Band by Product: Shows how discount strategies vary across products.
+### 4. **Segment Analysis Dashboard**
+Breaks down performance by business segments.
+- **Visuals:**
+  - Sales by Segment
+  - Profit by Segment
+  - Product-Segment Sales Matrix
+  - Dynamic Country Filter
 
-2. Geographical Product Sales Dashboard
-Purpose: Displays regional and country-wise sales distribution using maps and bar charts.
+---
 
-Key Visuals:
+## 🧠 Key Insights
+- **Top Products:** *Paseo*, *VTT*, and *Amarilla* consistently lead in sales.
+- **Most Profitable Segment:** Government
+- **Top Countries by Sales:** USA, Canada, France
+- **Sales Trend:** Steady YoY growth (2013 → 2014)
+- **Discount Strategies:** Targeted by product category
 
-Sales by Geography (Map View): Interactive map showing bubble sizes based on total sales volume by location.
+---
 
-Sales by Country (Bar Chart): Highlights top countries by sales, including the USA, Canada, France, Germany, and Mexico.
+## 🔧 Tools & Technologies
+- **Power BI Desktop**
+- **Data Sources:** (e.g., Excel)
+- **Techniques Used:** 
+  - DAX Calculations
+  - Interactive Filters & Slicers
+  - Custom tooltips
+  - Drill-Through Reports
 
-3. Product Performance Dashboard
-Purpose: Analyzes product-level metrics and trends over time.
+---
 
-Key KPIs:
+## 🚀 Use Cases
+- Executive Reporting
+- Regional Sales Planning
+- Product Lifecycle Analysis
+- Marketing & Segment Targeting
 
-Last 12 Months Sales: $92.3M
+---
 
-Visuals:
+## 📸 Screenshots
 
-Top-Selling Products: Grid view showing popular products (e.g., Paseo, Amarilla, Montana).
+| Sales Summary | Geographical Sales | Product Performance | Segment Analysis |
+|---------------|--------------------|----------------------|------------------|
+| ![Sales Summary]([images/sales_summary.png](https://github.com/prathameshsalvi7/Geo-Sales-Dashboard/blob/main/Sales%20Summary.png)) | ![Geo Sales]([images/geographical_sales.png](https://github.com/prathameshsalvi7/Geo-Sales-Dashboard/blob/main/Geographical%20Product%20Sales.png)) | ![Product Performance]([images/product_performance.png](https://github.com/prathameshsalvi7/Geo-Sales-Dashboard/blob/main/Product%20Performance.png)) | ![Segment Analysis]([images/segment_analysis.png](https://github.com/prathameshsalvi7/Geo-Sales-Dashboard/blob/main/Segment%20Analysis.png)) |
 
-Profit by Country: Bar chart comparing profit margins across top countries.
+> _Place the screenshots inside an `/images` folder in the repository._
 
-Sales and Profit Over Time: Combined bar chart showing monthly variations for both metrics from 2013 to 2014.
+---
 
-4. Segment Analysis Dashboard
-Purpose: Evaluates performance across different business segments.
+## 📂 How to Use
+1. Clone or download the repository.
+2. Open the `.pbix` file in Power BI Desktop.
+3. Connect your own data if needed (structure should match the original schema).
+4. Interact with slicers, filters, and visuals for dynamic insights.
 
-Visuals:
+---
 
-Total Sales by Segment: Bar chart showing dominance of Government and Small Business segments.
+## 📬 Contact
+For any questions or feedback, feel free to reach out via prathameshsalvi7@gmail.com or connect on [LinkedIn]((https://www.linkedin.com/in/prathameshsalvi7/).
 
-Total Profit by Segment: Highlights profitability, again with Government leading.
-
-Sales by Product & Segment: Stacked bar chart showing how each product performs in various customer segments.
-
-Interactive Country Filter: Dynamically filters all visuals based on the selected country.
-
-🧠 Insights Gained
-Government segment is the most profitable and highest contributor to sales.
-
-Products like Paseo and VTT lead in total sales.
-
-USA, Canada, and France are key markets by revenue and profitability.
-
-Sales have seen consistent year-over-year growth between 2013 and 2014.
-
-Discounts are used strategically across product categories to drive unit volume.
-
-🔧 Tools & Technologies
-Microsoft Power BI
-
-Data Sources: Presumed Excel/CSV (not provided)
-
-Visualization Types: Maps, bar charts, KPI cards, stacked columns, slicers
-
-🧩 Use Cases
-Executive-level business reporting
-
-Regional sales planning and strategy
-
-Product performance analysis
-
-Segment-focused marketing campaigns
-
-📸 Preview
-Screenshots of the dashboards can be found in the /images folder (optional: add uploaded images here or link to hosted files).
+---
