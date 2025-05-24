@@ -59,7 +59,7 @@ Breaks down performance by business segments.
 
 ## 🔧 Tools & Technologies
 - **Power BI Desktop**
-- **Data Sources:** (e.g., Excel)
+- **Data Sources:** Excel
 - **Techniques Used:** 
   - DAX Calculations
   - Interactive Filters & Slicers
